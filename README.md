@@ -21,3 +21,4 @@ Power BI
  Open to feedback and discussions!
 
 # Screenshot 
+Example : https://github.com/ahteshamnawaz/Bank-Analysis-Dashboard/blob/main/Power%20BI%20Dashboard.png
